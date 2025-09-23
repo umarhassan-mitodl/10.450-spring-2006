@@ -1,0 +1,50 @@
+{
+  "term": "Spring",
+  "year": "2006",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Chemical Engineering",
+      "Process Control Systems"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Dynamics and Control"
+    ]
+  ],
+  "legacy_uid": "b0eb8ca4-4d27-695e-c499-d73f1d4740a5",
+  "instructors": {
+    "content": [
+      "ccde269a-2e02-52f3-dbeb-779ffbd222f5"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "19d71d77-3488-c191-1731-86e90d7bc362",
+    "website": "10-450-process-dynamics-operations-and-control-spring-2006"
+  },
+  "course_title": "Process Dynamics, Operations, and Control",
+  "course_description": "This course introduces dynamic processes and the engineering tasks of process operations and control. Subject covers modeling the static and dynamic behavior of processes; control strategies; design of feedback, feedforward, and other control structures; and applications to process equipment.\n\n### Dedication\n\nIn preparing this material, the author has recalled with pleasure his own introduction, many years ago, to Process Control. This OCW course is dedicated with gratitude, to Prof. W. C. Clements of the University of Alabama.\n",
+  "department_numbers": [
+    "10"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "10.450",
+  "course_image_thumbnail": {
+    "content": "14264ae6-c5b5-3810-4a8f-c6b746bc5ed1",
+    "website": "10-450-process-dynamics-operations-and-control-spring-2006"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets",
+    "Written Assignments"
+  ],
+  "site_uid": "5e8da740-3e16-4e8b-9b00-67db80c2d3c2",
+  "site_short_id": "10.450-spring-2006",
+  "site_url_path": "courses/10-450-process-dynamics-operations-and-control-spring-2006",
+  "title": "Course Metadata"
+}
