@@ -8,6 +8,8 @@ description: This problem set allows us to update the simulator with a full PID 
 file: /courses/10-450-process-dynamics-operations-and-control-spring-2006/b854acb860388363d15ab3027778d2c2_pset_7.pdf
 file_size: 25306
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

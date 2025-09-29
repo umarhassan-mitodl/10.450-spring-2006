@@ -4,6 +4,8 @@ description: Supporting file for Problem Set 8.
 file: /courses/10-450-process-dynamics-operations-and-control-spring-2006/747488e5d64ebc43312a1642eb741d5b_exothrmc_rctr_ps8.xls
 file_size: 55808
 file_type: application/msword
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

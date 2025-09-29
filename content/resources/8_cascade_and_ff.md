@@ -6,6 +6,8 @@ description: This section contains information on context and direction, a proce
 file: /courses/10-450-process-dynamics-operations-and-control-spring-2006/3687206ba1051533fb5d29a63df08899_8_cascade_and_ff.pdf
 file_size: 324337
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

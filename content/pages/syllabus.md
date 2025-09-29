@@ -4,6 +4,8 @@ description: This section contains information no course description, course obj
   prerequisites, textbooks, grading policy, the daily grind, fix-its, late submission
   of work, calendar.
 draft: false
+hide_download: true
+hide_download_original: null
 title: Syllabus
 uid: 900536bf-ce00-9fcc-44df-831f26040921
 video_files:

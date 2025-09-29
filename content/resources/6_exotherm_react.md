@@ -6,6 +6,8 @@ description: This section contains information on context and direction, exother
 file: /courses/10-450-process-dynamics-operations-and-control-spring-2006/f5030af41384d9de143de5913022fad5_6_exotherm_react.pdf
 file_size: 389894
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

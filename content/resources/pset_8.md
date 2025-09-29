@@ -13,6 +13,8 @@ description: This problem set concerns representing nonlinear processes with lin
 file: /courses/10-450-process-dynamics-operations-and-control-spring-2006/1ffd34467b661ac534919b7faf13fe3b_pset_8.pdf
 file_size: 14789
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

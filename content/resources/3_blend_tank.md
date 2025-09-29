@@ -6,6 +6,8 @@ description: This resource contains information on context and direction, math m
 file: /courses/10-450-process-dynamics-operations-and-control-spring-2006/28cd628b5903b0bbabaef96f0d82f1d1_3_blend_tank.pdf
 file_size: 504800
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

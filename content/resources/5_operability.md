@@ -6,6 +6,8 @@ description: This section contains information on context and direction, remembe
 file: /courses/10-450-process-dynamics-operations-and-control-spring-2006/e5d095af4b8697f40b80009eeceaa7e7_5_operability.pdf
 file_size: 266221
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

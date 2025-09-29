@@ -10,6 +10,8 @@ description: This problem set reviews the old procedure of estimating closed-loo
 file: /courses/10-450-process-dynamics-operations-and-control-spring-2006/1fba9049ee99ef41c87613261c507628_pset_9.pdf
 file_size: 14443
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

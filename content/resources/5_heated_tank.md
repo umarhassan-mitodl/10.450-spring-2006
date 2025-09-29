@@ -5,6 +5,8 @@ description: This section contains information on context and direction, a heate
 file: /courses/10-450-process-dynamics-operations-and-control-spring-2006/dc573f23401eeb5822818fbaa177eaac_5_heated_tank.pdf
 file_size: 570433
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
